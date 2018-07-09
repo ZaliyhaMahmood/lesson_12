@@ -1,0 +1,14 @@
+{
+  "name": "lesson_12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Zaliyha",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
